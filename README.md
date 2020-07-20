@@ -1,7 +1,6 @@
 # pythonCalculator
-# Author : C S JOB
-# Language : Python
-# 
-#
-#
-A simple python calculator.
+
+ Author : C S JOB
+ Language : Python
+
+A simple python calculator using tkinter. 
