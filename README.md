@@ -3,4 +3,4 @@
  Author : C S JOB
  Language : Python
 
-A simple python calculator using tkinter. 
+A simple and scientific mode python calculator using tkinter. 
